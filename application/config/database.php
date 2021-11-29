@@ -75,7 +75,7 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
+	'hostname' => 'http://lmsjp.eastus.cloudapp.azure.com/',
 	'username' => 'root',
 	'password' => '',
 	'database' => 'lms',
